@@ -1,3 +1,5 @@
+//W3 SCHOOLS - JAVASCRIPT (TIME FUNCTION AND THE OBJECT MODEL)
+
 /*var toDay = new Date('07/10/2005')
 console.log(toDay)
 console.log(toDay.valueOf())
