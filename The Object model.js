@@ -71,7 +71,8 @@ document.getElementById('test').innerHTML = student2.regNo + " " + student2.acad
 //Using Object.values() - returns an array of data from the objects
 delete(student2.fullName)
 delete(student2.academia)
-
+//Create an array named myStudent first
+//Assign it to contain the values of the Student2 Object
 const myStudent = Object.values(student2)
 console.log(myStudent)
 
